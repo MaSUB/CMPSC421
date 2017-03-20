@@ -1,0 +1,13 @@
+#mtn {
+  width: 1200px;
+  height: 700px;
+  background-image: url("https://static.pexels.com/photos/6548/cold-snow-winter-mountain.jpeg");
+}
+
+.snow {
+    top:250px;
+    left:0px;
+    position: absolute;
+    z-index:200;
+    color:#fff;
+}
